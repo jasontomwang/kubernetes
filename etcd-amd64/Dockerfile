@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
-MAINTAINER silenceshell <[email protected]
+FROM gcr.io/google_containers/kube2sky-amd64:1.1.5
+MAINTAINER jasonwangshuming
